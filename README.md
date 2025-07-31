@@ -16,11 +16,11 @@ A full-stack SIEM system for home environments, running on BlackArch and powered
 
 ## Architecture:
 Wireless Networks -> BlackArch Host (ELK + MCP + Plugins)
-├─ Threat Hunter (Python)
-├─ Logstash Pipelines
-├─ Kibana Dashboard
-└─ MCP Server
-└─ Endpoints (Windows, Linux, Android)
+* Threat Hunter (Python)
+* Logstash Pipelines
+* Kibana Dashboard
+* MCP Server
+* Endpoints (Windows, Linux, Android)
 
 ## Threat Intelligence Features:
 
